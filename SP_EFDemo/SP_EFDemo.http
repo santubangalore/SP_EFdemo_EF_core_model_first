@@ -1,0 +1,6 @@
+@SP_EFDemo_HostAddress = http://localhost:5216
+
+GET {{SP_EFDemo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

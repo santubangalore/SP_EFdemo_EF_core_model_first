@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\SP_EFDemo.props" />
+</Project>
